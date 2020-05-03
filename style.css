@@ -1,0 +1,50 @@
+h1{
+  text-align: center;
+  font-family: 'Oswald', sans-serif;
+}
+
+div:first-of-type{
+  border: 3px solid violet;
+  border-radius: 5%;
+  width: 250px;
+  height: 250px;
+  margin-right: auto;
+    margin-left: auto;
+}
+
+input{
+  margin-right: auto;
+    margin-left: auto;
+    border: 3px solid violet;
+    border-radius: 5%;
+    height: 100px;
+    width: 250px;
+
+
+}
+
+button{
+  margin-right: auto;
+    margin-left: auto;
+    font-size: 1rem;
+    color: #000000;
+    text-decoration: none;
+    border: none;
+    outline: none;
+    background-color: violet;
+    padding: 0.5rem 1rem;
+    border-radius: 2rem;
+    transition: background-color 0.2s;
+    width: 250px;
+}
+
+
+.container{
+  text-align: center;
+}
+
+canvas{
+  margin-top: 60px;
+  margin-left: 60px;
+
+}
